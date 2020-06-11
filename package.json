@@ -1,0 +1,25 @@
+{
+  "name": "wallaby-2443",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtemGovorov/wallaby-2443.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtemGovorov/wallaby-2443/issues"
+  },
+  "homepage": "https://github.com/ArtemGovorov/wallaby-2443#readme",
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.10.1",
+    "@types/jest": "^26.0.0",
+    "jest": "^26.0.1",
+    "typescript": "^3.9.5"
+  }
+}
